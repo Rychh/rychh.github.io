@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 50px;
+}
+h1 {
+    color: #4CAF50;
+}
+a {
+    text-decoration: none;
+    color: #333;
+}
+.publications {
+    margin-top: 30px;
+    text-align: left;
+}
+.publication {
+    margin-bottom: 20px;
+    border: 1px solid #ddd;
+    padding: 15px;
+    border-radius: 5px;
+}
+.publication h3 {
+    margin: 0 0 10px;
+}
